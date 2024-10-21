@@ -11,7 +11,7 @@ Should be built initially as a webapp- Minor functionality to begin, to provide 
 ## Table of Contents
 + [Introduction](#Introduction)
 
-+ [Reasoning](#Reason)
+  + [Reasoning](#Reason)
 
 + [Goals](#Goals)
 
