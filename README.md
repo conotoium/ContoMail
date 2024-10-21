@@ -9,15 +9,15 @@ Aiming to provide a good email client and system that can be intergrated with ot
 Should be built initially as a webapp- Minor functionality to begin, to provide Idea of what makes it more unique and effective than other clients.
 
 ## Table of Contents
-[Introduction](#Introduction)
++ [Introduction](#Introduction)
 
-[Reasoning](#Reason)
++ [Reasoning](#Reason)
 
-[Goals](#Goals)
++ [Goals](#Goals)
 
-[Features](#Features)
++ [Features](#Features)
 
-[Install](#Installation)
++ [Install](#Installation)
 
 ## Reason
 Many email clients just feel, look and seem outdated, not utilising many more modern technologies. The reason behind this is the age old Ideaology of "If its not broken, dont fix it".
