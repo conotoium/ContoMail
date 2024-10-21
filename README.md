@@ -16,3 +16,10 @@ I want to fix this and make a modern, seamless and fluid experience to provide b
 - [ ] Ensure secure user data storage
 - [ ] Create a way for effective app integration into the system.
 - [ ] Add a way for effective email storage.
+
+# Features
+Again, a wip. See [Goals](#Goals), above.
+
+
+# Installation
+Because this is a wip, Installation atm is simplw to just grab this repo and run it.
