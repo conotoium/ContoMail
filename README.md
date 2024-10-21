@@ -1,5 +1,5 @@
 # ContoMail
-© All Rights Reserved.
+© All Rights Reserved. Contonium365, 2024
 
 # Introduction
 A Wip Project by Contonium365
