@@ -6,6 +6,8 @@ Contonium365, 2024
 > [!WARNING]
 > This Repo Is a WIP, Do not expect things to work. You procceed at own user risk.
 
+# THIS PROJECT IS A LONG TERM GOAL. DEVELOPMENT MAY NOT YET BE STARTED
+
 # Introduction
 A __Wip__ Project by Contonium365
 Aiming to provide a good email client and system that can be intergrated with other email services, such as gmail, to provide a better and more efective interface for users.
